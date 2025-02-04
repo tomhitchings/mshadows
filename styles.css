@@ -1,0 +1,10 @@
+body {
+    background-color: aquamarine;
+    color: rgb(206, 29, 29);
+    font-family: fantasy;
+}
+h2 {
+    color: chocolate;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
